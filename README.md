@@ -1,0 +1,1 @@
+# DepthAI-Text-Recognition
